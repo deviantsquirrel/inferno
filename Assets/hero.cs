@@ -30,14 +30,11 @@ public class hero : MonoBehaviour
 
     public LayerMask groundLayer;
 
-
-
     public float screenHeight = 1920f;
     public float screenWidth = 1080f;
     public float targetAspect = 9f / 16f;
     public float orthographicSize;
     private Camera mainCamera;
-
 
     public GameObject canvaEnd;
     public GameObject rule;

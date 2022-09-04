@@ -11,6 +11,4 @@ public class dialog
     //public string lev;
     [TextArea(3,10)]
     public string[] sentenses;
-    //Очень крутой комментарий
-
 }
