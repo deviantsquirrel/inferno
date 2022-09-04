@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - huricane
+  - rain
+  - door
+  - dorl3
+  - dorl1
+  - orphey
+  - dor4
+  - lava
+  - platf
+  - platf1
+  - platf2
+  - dor5
+  - dor7
+  - bodyguard
+  - partner
+  - aba
+  - letter
+  - 1
+  - 2
+  - 3
+  - 4
+  - wall
+  - fire
+  - luci
+  - lady
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - tormado
+  - 
+  - 
+  - pla
+  - floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - player
+  - wals
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 1622025059
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 3126989645
+    locked: 0
+  - name: raind
+    uniqueID: 1934883847
+    locked: 0
+  - name: wrata
+    uniqueID: 3488123873
+    locked: 0
+  - name: player
+    uniqueID: 785777055
+    locked: 0
+  - name: sky
+    uniqueID: 4138288303
+    locked: 0
+  - name: UI
+    uniqueID: 3980403483
+    locked: 0
+  - name: New Layer
+    uniqueID: 1963791065
+    locked: 0
