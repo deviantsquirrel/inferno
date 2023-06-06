@@ -4,6 +4,9 @@ An adventure game where you play as a person, who enters the underworld and must
 ## Gameplay
 An example of a game session:
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/b66XfwIz374/0.jpg)]
+(http://www.youtube.com/watch?v=b66XfwIz374 "Video Title")
+
 https://youtu.be/b66XfwIz374
 
 
