@@ -8,10 +8,7 @@ An example of a game session:
 
 
 
-(http://www.youtube.com/watch?v=b66XfwIz374 "Video Title")
-
-https://youtu.be/b66XfwIz374
-
+(http://www.youtube.com/watch?v=b66XfwIz374 "Inferno")
 
 On most levels player can move using the the up, down, left and right buttons. On other levels player selects objects with touch. The player has three lives. The game exits to the main menu if they lose all of them. 
 The game has nine levels, as in the nine circles of hell. Each level presents a different challenge to the player. 
